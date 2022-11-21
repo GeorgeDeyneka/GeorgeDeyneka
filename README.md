@@ -1,15 +1,8 @@
 ## 👋 ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝔾𝕖𝕠𝕣𝕘𝕖
 
-![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDeyneka&show_icons=true&theme=radical)
-
 <!--
-**GeorgeDeyneka/GeorgeDeyneka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -30,3 +23,6 @@ Here are some ideas to get you started:
 
 ### ⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:
 [![codewars](https://www.codewars.com/users/GeorgeDeyneka/badges/large)](https://www.codewars.com/users/GeorgeDeyneka) 
+
+### 📊 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
+![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDeyneka&show_icons=true&theme=radical)

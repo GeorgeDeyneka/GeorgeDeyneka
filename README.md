@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular
 - 🤔 I’m looking for help with work
 - 📫 How to reach me: https://www.linkedin.com/in/george-deyneka-910003238/
+
+[![codewars](https://www.codewars.com/users/GeorgeDeyneka/badges/large)](https://www.codewars.com/users/GeorgeDeyneka) 

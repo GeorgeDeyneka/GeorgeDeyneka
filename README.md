@@ -21,8 +21,8 @@
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 - ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### ⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:
-[![codewars](https://www.codewars.com/users/GeorgeDeyneka/badges/large)](https://www.codewars.com/users/GeorgeDeyneka) 
-
 ### 📊 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 ![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDeyneka&show_icons=true&theme=radical)
+
+### ⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:
+[![codewars](https://www.codewars.com/users/GeorgeDeyneka/badges/large)](https://www.codewars.com/users/GeorgeDeyneka) 

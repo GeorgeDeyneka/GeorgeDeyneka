@@ -12,7 +12,7 @@
 - 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔸𝕟𝕘𝕦𝕝𝕒𝕣
 - 🤔 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 𝕨𝕠𝕣𝕜
 - 📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖:
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/george-deyneka-910003238/)]
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-deyneka-910003238/)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/george-deyneka-910003238/)
 
 ### 💻 𝕄𝕪 𝕤𝕥𝕒𝕔𝕜:

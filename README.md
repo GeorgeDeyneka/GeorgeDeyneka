@@ -23,13 +23,13 @@
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 (𝕝𝕚𝕟𝕜𝕤):
-- <a href="mailto: zhoradeynecka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
-  </a> <a href="https://www.linkedin.com/in/george-deyneka-910003238/">
+- <a href="https://www.linkedin.com/in/george-deyneka-910003238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <a href="https://t.me/Deyneka_George">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  </a> <a href="mailto: zhoradeynecka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+  </a> 
 
 ### 📊 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 ![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDeyneka&show_icons=true&theme=radical)

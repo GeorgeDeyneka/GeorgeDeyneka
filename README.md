@@ -16,6 +16,7 @@
 - ℍ𝕐𝕊 𝕃𝕒𝕟𝕕𝕚𝕟𝕘 ℙ𝕒𝕘𝕖  https://georgedeyneka.github.io/hys_academy/
 - 𝕆𝕟𝕝𝕚𝕟𝕖 𝕊𝕥𝕠𝕣𝕖  https://georgedeyneka.github.io/HYS_StoreAngular/
 - ℙ𝕒𝕤𝕤𝕨𝕠𝕣𝕕 ℂ𝕙𝕖𝕔𝕜𝕖𝕣  https://georgedeyneka.github.io/AngularCheckPassword/
+- 𝕋𝕠-𝔻𝕠 𝕃𝕚𝕤𝕥  https://georgedeyneka.github.io/ToDoList/
 
 ### 💻 𝕄𝕪 𝕤𝕥𝕒𝕔𝕜:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)

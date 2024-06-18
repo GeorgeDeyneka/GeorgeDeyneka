@@ -1,4 +1,4 @@
-## 👋 ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝔾𝕖𝕠𝕣𝕘𝕖 
+## 👋 Hello
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -7,31 +7,31 @@
 - ⚡ Fun fact: ...
 -->
 
-### 👨‍💻 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖:
-- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕚𝕟 𝕄𝕒𝕣𝕜𝕖𝕥𝕄𝕒𝕜𝕚𝕟𝕘 ℙ𝕣𝕠 𝕔𝕠𝕞𝕡𝕒𝕟𝕪!
-- 🌱 𝕀’𝕞 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℕ𝕠𝕕𝕖.𝕛𝕤 𝕒𝕟𝕕 𝕄𝕠𝕟𝕘𝕠𝔻𝔹
-- 💸 𝕀'𝕞 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕚𝕟𝕘 𝕚𝕟 𝕔𝕣𝕪𝕡𝕥𝕠 𝕒𝕟𝕕 𝕎𝕖𝕓𝟛 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
+### 👨‍💻 About:
+- 🔭 I'm currently working in Market Making Pro company as Frontend developer
+- 🌱 I develop and maintain projects on Nuxt 3 and Nuxt.js
+- 💸 I'm interesting in crypto/fintech & Web3 development
 
-### 📁 𝕄𝕪 𝕠𝕨𝕟 𝕡𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠: 
+### 📁 My own portfolio: 
 - https://portfolio-deyneka.web.app/
 
-### 🏆 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕀'𝕞 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟:
-- 𝕄𝕄ℙ𝕣𝕠 𝕄𝕒𝕚𝕟 𝕎𝕖𝕓𝕤𝕚𝕥𝕖: https://marketmaking.pro/
-- 𝕄𝕄ℙ𝕣𝕠 𝕋𝕣𝕦𝕤𝕥 𝕎𝕖𝕓𝕤𝕚𝕥𝕖: https://mmprotrust.com/
-- 𝕆𝕟𝕝𝕚𝕟𝕖 𝕊𝕥𝕠𝕣𝕖  https://georgedeyneka.github.io/HYS_StoreAngular/
+### 🏆 Projects I'm working on:
+- MMPro Group Website: https://marketmaking.pro/
+- MMPro Trust Website: https://mmprotrust.com/
+- MMPro RWA Store Landing: https://rwa.mmprotrust.com/
 
-### 💻 𝕄𝕪 𝕤𝕥𝕒𝕔𝕜:
+### 💻 My stack:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
-### 🛠 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
+### 🛠 My tools:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### 📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 (𝕝𝕚𝕟𝕜𝕤):
+### 📫 How to reach me (links):
 - <a href="https://www.linkedin.com/in/george-deyneka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <a href="https://t.me/Deyneka_George">
@@ -40,8 +40,8 @@
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
   </a> 
 
-### 📊 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
+### 📊 My stats:
 ![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeDeyneka&show_icons=true&theme=radical)
 
-### ⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:
+### ⚔️ My Codewars  profile:
 [![codewars](https://www.codewars.com/users/GeorgeDeyneka/badges/large)](https://www.codewars.com/users/GeorgeDeyneka) 
